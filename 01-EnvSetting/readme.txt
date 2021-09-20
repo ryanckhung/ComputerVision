@@ -9,7 +9,9 @@ After creating the environment, you can goto any folder and activate the it:
 > conda activate python-cvcourse
 > conda deactivate
 
-
 After activate the environment, run
 > jupyter-lab
 then it will pop up with a browser
+
+Check environment
+> conda info --envs
