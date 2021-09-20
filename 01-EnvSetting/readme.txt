@@ -8,6 +8,10 @@ After creating the environment, you can goto any folder and activate the it:
 > conda activate <env name specify in the yaml file>
 > conda activate python-cvcourse
 > conda deactivate
+after activated the environment, run
+> pip install opencv-python
+then it will installed the package under the environment
+
 
 After activate the environment, run
 > jupyter-lab
