@@ -15,3 +15,7 @@ then it will pop up with a browser
 
 Check environment
 > conda info --envs
+
+Install package in Jupyter Notebook by
+goto Browser -> Jupyter Notebook -> add the following and run (note, there is an "!" at the beginning)
+!pip3 install opencv-python
