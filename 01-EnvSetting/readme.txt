@@ -2,6 +2,8 @@ Install the conda by going to the URL
 https://www.anaconda.com/
 and search for MAC installer
 
+and install "conda install -c conda-forge jupyterlab"
+
 
 In terminal, goto a particular folder. Then run:
 > conda env create -f <xxx.yaml>                // the xxx.yaml file store the package information
