@@ -1,5 +1,10 @@
+Install the conda by going to the URL
+https://www.anaconda.com/
+and search for MAC installer
+
+
 In terminal, goto a particular folder. Then run:
-> conda env create -f <xxx.yaml>
+> conda env create -f <xxx.yaml>                // the xxx.yaml file store the package information
 > conda env create -f cvcourse_macos.yml
 then it will create a folder in "/Users/ryan/opt/anaconda3/envs/python-cvcourse"
 python-cvcourse is the name specified in the yaml file
